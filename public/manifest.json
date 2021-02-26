@@ -1,0 +1,15 @@
+{
+  "short_name": "Ultimate Playbook",
+  "name": "The Ultimate Playbook",
+  "icons": [
+    {
+      "src": "disc_icon.png",
+      "sizes": "200x200",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
